@@ -4,7 +4,7 @@ Cursor 101 是一个教程项目，旨在帮助用户探索 Cursor 编辑器的�
 
 ## 内容概览
 
-1. 🚀 Cursor 初体验
+1. 🚀 [Cursor 初体验](docs/01-getting-started/01-why-cursor.md)
    - 为什么选择 Cursor？
    - 安装指南
    - 基本概念入门
@@ -34,10 +34,8 @@ Cursor 101 是一个教程项目，旨在帮助用户探索 Cursor 编辑器的�
 
 跟随本项目的教程逐步学习，实践每个章节的内容，全面提升您的 Cursor 使用技能。
 
+项目网站: [Cursor 101](https://cursor101.com)
+
 ## 贡献
 
 欢迎提交 Issue 或 Pull Request 来完善本项目，让我们一起打造最佳的 Cursor 学习资源！
-
-## 许可
-
-本项目采用 MIT 许可证。
