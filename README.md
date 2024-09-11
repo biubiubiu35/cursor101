@@ -4,16 +4,16 @@ Cursor 101 is a tutorial project aimed at helping users explore creative applica
 
 ## Content Overview
 
-1. 🚀 [Getting Started with Cursor](docs/01-getting-started/01-why-cursor/index.md)
-   - Why Choose Cursor?
-   - Installation Guide
-   - Basic Concepts
+1. 🚀 [Getting Started with Cursor](docs/01-getting-started/01-why-cursor.zh.md)
+   - [Why Choose Cursor?](docs/01-getting-started/01-why-cursor.zh.md)
+   - [Installation Guide](docs/01-getting-started/02-install.zh.md)
+   - [Cursor Application Cases](docs/01-getting-started/01-cursor-cases.zh.md)
 
 2. 🧠 Core Features Explained
-   - Tab: Multi-file Management
-   - Chat: AI Assistant Dialogue
-   - Codebase: Project Global View
-   - Symbol: Code Symbol Navigation
+   - Tab: Auto-completion
+   - Chat: AI dialogue. Q&A, code modification, application
+   - Codebase: Code repository
+   - Symbol: Use @ symbol to specify files, identifiers, links, clarify context
 
 3. ✨ Advanced Composer Applications
    - Natural Language Programming
