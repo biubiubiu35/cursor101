@@ -14,4 +14,4 @@ Cursor is a revolutionary code editor that combines the power of traditional edi
 
 In the following chapters, we'll explore Cursor's features in depth, helping you make the most of this powerful editor.
 
-[Back to Table of Contents](../../../README.md)
+[Back to Table of Contents](../../README.md)
